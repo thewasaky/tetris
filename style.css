@@ -1,0 +1,21 @@
+:root{
+    color-scheme: dark light;
+    background-color: #242424;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
